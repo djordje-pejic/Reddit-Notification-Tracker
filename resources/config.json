@@ -1,0 +1,21 @@
+{
+    "reddit": {
+        "username": "REDDIT_USERNAME",
+        "password": "REDDIT_PASSWORD",
+        "client_id": "REDDIT_CLIENT_ID",
+        "client_secret": "REDDIT_CLIENT_SECRET",
+        "user_agent": "REDDIT_USER_AGENT"
+    },
+    "pushbullet": {
+        "api_key": "PUSHBULLET_API_KEY"
+    },
+        "push_message": {
+            "all_keywords": "LIST_OF_KEYWORDS",
+            "specific_keywords": "LIST_OF_SPECIFIC_KEYWORDS",
+            "invalid_match": "LIST_OF_FORBIDDEN_WORDS"
+        },
+        "monitor": {
+            "general_subreddits": "LIST_OF_SUBREDDIT_NAMES",
+            "specific_subreddit": "NAME_OF_ONE_SUBREDDIT"
+        }
+}
